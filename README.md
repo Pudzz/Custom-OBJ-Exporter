@@ -10,3 +10,5 @@ The exporter has the choice to:
 - Export whole scene och just the selecte3d objects
 - Export material [.mtl-file]
 - Export scene i local- or worldspace
+
+#### Written in PyMEL
